@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "title": "React",
+      "description": "Learn React",
+      "id": 1
+    },
+    {
+      "title": "Redux Tool Kit",
+      "description": "Learn redux toolKit",
+      "id": 2
+    }
+  ]
+}
